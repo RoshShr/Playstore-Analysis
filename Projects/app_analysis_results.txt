@@ -1,0 +1,8 @@
+=== Top 5 Most Common Categories ===
+Category
+FAMILY          1747
+GAME            1097
+TOOLS            734
+PRODUCTIVITY     351
+MEDICAL          350
+Name: count, dtype: int64
